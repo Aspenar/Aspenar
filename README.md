@@ -1,4 +1,4 @@
-<h1>Hi, I'm Spencer! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/spencer-peterson-4065a2136">Manager</a></h1>
+<h1>Hi, I'm Spencer! <br/><a href="https://github.com/Aspenar">Programmer</a>, <a href="https://www.linkedin.com/in/spencer-peterson-4065a2136">Manager</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
