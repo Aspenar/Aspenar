@@ -15,5 +15,5 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[youtube]: https://www.youtube.com/channel/UCHWruM7NgjNGXsBXGMBrb_g
-[linkedin]: https://www.linkedin.com/in/spencer-peterson-4065a2136
+[youtube](https://www.youtube.com/channel/UCHWruM7NgjNGXsBXGMBrb_g)
+[linkedin](https://www.linkedin.com/in/spencer-peterson-4065a2136)
